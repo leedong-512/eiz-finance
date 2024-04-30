@@ -1,0 +1,7 @@
+Parameters:
+  Exp: pfl
+  Dir: ./files/aupost
+  Cpl: C,A
+  R1: C
+  Sml: P
+  Sl: D,C
