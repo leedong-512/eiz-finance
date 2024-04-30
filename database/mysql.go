@@ -7,13 +7,13 @@ import (
 	//log "github.com/sirupsen/logrus"
 )
 var (
-	dbUser = "wunan"
-	dbPass = "z0F5gb8WUhSHdTZ1"
-	dbHost = "master.ccub4ta9krao.ap-southeast-2.rds.amazonaws.com"
+	dbUser = "test"
+	dbPass = "test"
+	dbHost = "test"
 	dbPort = "3306"
-	dbName = "eiz_test"
-	taskDbName = "eiz_task_test"
-	db3plName = "eiz_3PL"
+	dbName = "test"
+	taskDbName = "test"
+	db3plName = "test"
 )
 
 func InitializeDB() (*sql.DB, error) {
